@@ -5,14 +5,14 @@
 export const environment = {
   production: false,
   fireBaseConfig: {
-    apiKey: "AIzaSyDxkx8aTiBR6XhASLAk8jDPHTgYqglz__k",
-    authDomain: "firestorecrud-danky.firebaseapp.com",
-    databaseURL: "https://firestorecrud-danky.firebaseio.com",
-    projectId: "firestorecrud-danky",
-    storageBucket: "firestorecrud-danky.appspot.com",
-    messagingSenderId: "339715744780",
-    appId: "1:339715744780:web:debfac7545034699653a29",
-    measurementId: "G-3V5MGC96TD"
+    apiKey: 'AIzaSyDxkx8aTiBR6XhASLAk8jDPHTgYqglz__k',
+    authDomain: 'firestorecrud-danky.firebaseapp.com',
+    databaseURL: 'https://firestorecrud-danky.firebaseio.com',
+    projectId: 'firestorecrud-danky',
+    storageBucket: 'firestorecrud-danky.appspot.com',
+    messagingSenderId: '339715744780',
+    appId: '1:339715744780:web:debfac7545034699653a29',
+    measurementId: 'G-3V5MGC96TD'
   }
 };
 
